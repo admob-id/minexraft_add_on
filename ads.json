@@ -1,0 +1,22 @@
+{
+  "adsmodel": [
+    {
+      "priority": "FACEBOOK",
+      "inter": "YOUR_PLACEMENT_ID",
+      "banner": "YOUR_PLACEMENT_ID",
+      "native": "YOUR_PLACEMENT_ID",
+      "isShowAds": false
+    },
+    {
+      "priority": "GOOGLE",
+      "inter": "ca-app-pub-3940256099942544/1033173712",
+      "banner": "ca-app-pub-3940256099942544/6300978111",
+      "native": "abc",
+      "isShowAds": false
+    }
+  ],
+  "priorities": [
+   "GOOGLE",
+   "FACEBOOK"
+  ]
+}
