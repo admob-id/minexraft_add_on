@@ -21,11 +21,18 @@
   ],
   "apps":[
     {
-      "packageName":"com.miniclip.eightballpool",
-      "appName":"8 Ball Pool",
-      "appDes":"Collection of over 2000 awesome addons for Minecraft (Pocket edition)",
-      "appThumbnail":"https://play-lh.googleusercontent.com/PqtBSK2Bu75H9rwi-6-0mvUQ1UaR85c_26xbA6xay8zvcXeC97iFl9xVqSHO6qq1r-s=s360-rw",
-      "appImages":["https://play-lh.googleusercontent.com/VPbLt0geSS4VTp0VrBylmWzpbc3PFJYb8ocnDu-p1_DzlpSPEB7sNrEFFnH7sD7EHsI=w1440-h620-rw","https://play-lh.googleusercontent.com/VPbLt0geSS4VTp0VrBylmWzpbc3PFJYb8ocnDu-p1_DzlpSPEB7sNrEFFnH7sD7EHsI=w1440-h620-rw"]
+      "packageName":"com.mcpecenter.mods.maps.minecraftpe",
+      "appName":"Mods|Maps for Minecraft PE (MCPE)",
+      "appDes":"Collection of over 2000 awesome maps, mods and addons for Minecraft (Pocket edition)",
+      "appThumbnail":"https://play-lh.googleusercontent.com/2-fnV9YxIferzJxoqLliHbAtUW0ZluMQB6eMLHAk5dWzRi3WaRyKwQ-Lskr8TQ27Yq86=s500",
+      "appImages":[
+                    "https://play-lh.googleusercontent.com/_bAB8gLEhgVeIzMWccZ5XLLBy5DfFjrplWB3p0BAz8Kn-Z3QnY5lNl5VCO6gARkmWhA=w720-h310-rw",
+                    "https://play-lh.googleusercontent.com/qZWc6ReXDcB6cSLCElZW4HzEeJ_lNhaTGftwllgAx_LXQg-XjNVUNx0vz2aoMFUd--ia=w720-h310-rw",
+                    "https://play-lh.googleusercontent.com/cA-PqgY4RQoFbiJ4GBItzckeCHqznRaD0pa_jTYHiIqKkPaOqCZU4UF-20XjCTigKWtB=w720-h310-rw",
+                    "https://play-lh.googleusercontent.com/1COaYHLxIMZsPMNeRMkk9jU_eSBfUtC5yazbybp5RV4RQQSwXP4QG-fxuZpxnq-ubA=w720-h310-rw",
+                    "https://play-lh.googleusercontent.com/3yZEsjv8j-23_F3kmVRHccHVfq3BoMf720lWSfcATF2Iihz7SO2ZA4VPD2RZNjbOy0Y=w720-h310-rw",
+                    "https://play-lh.googleusercontent.com/9S1iz1WTpIUcnGc14nvQNivdy4NpOiByD7Xt3OJCKR6uBn5xbrjOHylpBFbZW8kp0sw=w720-h310-rw"
+                 ]
     }
   ]
 }
