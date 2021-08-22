@@ -18,5 +18,14 @@
   "priorities": [
    "GOOGLE",
    "FACEBOOK"
+  ],
+  "apps":[
+    {
+      "packageName":"com.miniclip.eightballpool",
+      "appName":"8 Ball Pool",
+      "appDes":"Collection of over 2000 awesome addons for Minecraft (Pocket edition)",
+      "appThumbnail":"https://play-lh.googleusercontent.com/PqtBSK2Bu75H9rwi-6-0mvUQ1UaR85c_26xbA6xay8zvcXeC97iFl9xVqSHO6qq1r-s=s360-rw",
+      "appImages":["https://play-lh.googleusercontent.com/VPbLt0geSS4VTp0VrBylmWzpbc3PFJYb8ocnDu-p1_DzlpSPEB7sNrEFFnH7sD7EHsI=w1440-h620-rw","https://play-lh.googleusercontent.com/VPbLt0geSS4VTp0VrBylmWzpbc3PFJYb8ocnDu-p1_DzlpSPEB7sNrEFFnH7sD7EHsI=w1440-h620-rw"]
+    }
   ]
 }
