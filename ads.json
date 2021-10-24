@@ -18,7 +18,7 @@
       "native": "YOUR_PLACEMENT_ID",
       "rewared": "YOUR_PLACEMENT_ID",
       "openApp":"YOUR_PLACEMENT_ID",
-      "isShowAds": true
+      "isShowAds": false
     }
   ],
   "priorities": ["GOOGLE", "FACEBOOK"],
