@@ -39,6 +39,21 @@
                  ]
     },
     {
+      "packageName":"com.guns.weapons.mods.mcpe",
+      "appName":"Guns For Minecraft",
+      "appDes":"Guns For MCPE is a collection a lot guns, addon and mod for Minecraft",
+      "appThumbnail":"https://play-lh.googleusercontent.com/Y1MmDF_mxRQi-M5RvI7AO0HevZwsgbOlVxBwj2ZjEvfR8pezvwq1tENJmy47NXyHmkE=s900",
+      "appImages":[
+                    "https://play-lh.googleusercontent.com/XbfhNZwCxtMbOF1ERLTYaEcFQya_c2u-_puA4MVet4xKPRP1umdkXxPPmqWpdhloqM1H=w1440-h620-rw",
+                    "https://play-lh.googleusercontent.com/60EURqeIYb8RDGUtk7TVYGKR6zeWzMBbVSVW3HCrKDW2EhK9G84F2EsMMV0HqxJ47GM=w1440-h620-rw",
+                    "https://play-lh.googleusercontent.com/Sh8gfpRe_uQSHKQY5ysiD5sgLVZRVdtjZoW2iHURm86NfNUPNpctRXxYJL6X3oUDvA=w1440-h620-rw",
+                    "https://play-lh.googleusercontent.com/5bDBSr_lWk_11rR7Q8rtPDi4ItyJkdZXKctPcUV7ckDwN2f7LJ3XzEUfCAUQwD4SmAA=w1440-h620-rw",
+                    "https://play-lh.googleusercontent.com/YoK75N3pHr6nyQZdPZapEWHoUEaslkvq9T0nW_FplCtoh-GfTnHZp8PgAyQ5GdKYYLC-=w1440-h620-rw",
+                    "https://play-lh.googleusercontent.com/m0Nw1r9vIT1fEvRLe7ObBU4QU_xdcDEW7xWpfIuw96hCXLbmUk1-O0NGp7RTpQ-olOc=w1440-h620-rw",
+                    "https://play-lh.googleusercontent.com/B_BI5Qv6ChCLFjucd91GtP1Vv4egGxHpsB11yPe-MHmozRJ_VV14eI99JgRjBff1XdM=w1440-h620-rw"
+                 ]
+    },
+    {
       "packageName":"com.mcpecenter.mods.maps.minecraftpe",
       "appName":"Mods|Add-On for Minecraft PE",
       "appDes":"Collection of over 2000 awesome maps, mods and addons for Minecraft (Pocket edition)",
