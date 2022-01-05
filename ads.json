@@ -21,7 +21,7 @@
       "isShowAds": false
     }
   ],
-  "priorities": ["GOOGLE", "FACEBOOK"],
+  "priorities": ["GOOGLE"],
   "product": [],
   "apps":[
       {
