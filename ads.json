@@ -26,6 +26,21 @@
   "apps":[
     
     {
+      "packageName":"com.mcpecenter.skins.minecraftpe",
+      "appName":"Skin for Minecraft PE",
+      "appDes":"Collection of 1000++ skins for Minecraft Pocket Edition",
+      "appThumbnail":"https://play-lh.googleusercontent.com/393v5oDLLYks8k0G-gk5uazi-hzPFfrEVPmzrU0JEQBNmAZU16uyXA1efdUTxq52h40x=s9999-rw",
+      "appImages":[
+                    "https://play-lh.googleusercontent.com/ftonC2f67VK9D5kSN2Qw0HuE6DYr8Bgt4BtkWusp-Ptv0lCh7IkJ-YAcI0D-eKtnww=w1440-h999",
+                    "https://play-lh.googleusercontent.com/PMwKtxHA0sJzTStZO18_cAUuWoWTX9t2YyRBzDlb2JpZMEmuzaPoQs1WzyE3QD1OC-M=w1440-h620-rw",
+                    "https://play-lh.googleusercontent.com/Cybl47FC48Z2C_2-p0MForIL7L15bOfmra3smmqNalb77UkwM91H7BMukrLvgAv2ob8=w1440-h620-rw",
+                    "https://play-lh.googleusercontent.com/GYGrub7-aLnJtg3kyUz4z1RY5C0cw3ocScf4hPlCPqNE7CA5r8NXAO2PXERS1Ozoffk=w1440-h620-rw",
+                    "https://play-lh.googleusercontent.com/giCUgd3f55R2Hpop2Ha2bT8VjX3Uo5bx-IATLGBtkiIikm5HMPA3wP75jsviR3-5QQ=w1440-h620-rw",
+                    "https://play-lh.googleusercontent.com/jQ6rslLJEwkvC7Frokjm18EHhwxp795-UqcKIUmh6MP8OPg4PMQT-jImn9i4p1kIzg=w1440-h620-rw",
+                    "https://play-lh.googleusercontent.com/BS9NiqTKo2OjUV2lEnaEQpLhp7EqZYUKAIQKzz9y150-DOsjqNe5jZ5qgcMPRuM9KDdJ=w1440-h620-rw"
+                 ]
+    },
+    {
       "packageName":"com.guns.weapons.mods.mcpe",
       "appName":"Guns For Minecraft",
       "appDes":"Guns For MCPE is a collection a lot guns, addon and mod for Minecraft",
